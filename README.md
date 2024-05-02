@@ -23,11 +23,11 @@ To run the Nightlife Finder app locally, follow these steps:
    ```bash
    git clone https://github.com/SamuelPetrucci/Bar-Hopper-Streamlit.git
 2. install the requirments
-   '''bash
+   ```bash
    pip install -r requirements.txt
    (Also Need to obtain a google maps API Key)
 4. Run the application
-   '''bash
+   ```bash
    streamlit run app.py
 
 
